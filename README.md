@@ -8,6 +8,7 @@ Programmer (noun): A machine that turns coffee into code.
 
 - 🔭 I’m currently working on my React Skills.
 - 🌱 I’m currently improving my competative programming and DSA skills.
+- 🔭 I’ve recently learned AWS.
 - 👯 I’m intrested in keeping up-to-date with latest technological developments.
 - :computer: I’m strong at CS fundamentals (data structure, algorithm).
 - 🌱 I’m comfortable working in agile enviornment.
