@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! there 👋
 
 I'm Sumit a software engineer at Appdirect India. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new. 
 
