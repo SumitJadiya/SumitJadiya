@@ -6,6 +6,7 @@ I'm Sumit a software engineer at Appdirect India. I have a creative and focused 
 Programmer (noun): A machine that turns coffee into code.
 ```
 
+- 👯 I've recently received Arctic Code Vault Contributor badge from Github
 - 🔭 I’m currently working on my React Skills.
 - 🌱 I’m currently improving my competative programming and DSA skills.
 - 🔭 I’ve recently learned AWS.
@@ -14,7 +15,6 @@ Programmer (noun): A machine that turns coffee into code.
 - 🌱 I’m comfortable working in agile enviornment.
 - 🔭 I’m team player who values collaboration, innovation and inclusion.
 - 🤔 I’m able to work with minimal supervision.
-- 👯 I’m able to think and analyse both breadth-wise and depth wise.
 - ✨ I’m ready to take up new technical challenges.
 - ✨ I’m adaptable and transformable to learn latest technologies as per business need.
 - :computer: I optimize the application code and always maintain a good object oriented practices.
