@@ -3,21 +3,21 @@
 I'm Sumit a software engineer at Appdirect India. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new. 
 
 ```
-Programmer (noun): A machine that turns coffee into code.
+Programmer (noun): Someone who solves a problem you didn't know you had, in a way you don't understand. 😉
 ```
+
 <p align="center">
   <img align="center" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="300" height="300"/>
 </p>
 
-🥇   &nbsp;  I've recently received Arctic Code Vault Contributor badge from Github <br />
 💻    &nbsp; I’m currently working on my React Skills.<br />
 ✍🏻   &nbsp;  I’m currently improving my competative programming and DSA skills.<br />
 🔭   &nbsp;  I’m interested in exploring AWS.<br />
 💬    &nbsp; Ask me about React, AWS or maybe anything! If I didn't know maybe I will learn something new!. <br />
 👯    &nbsp; I’m intrested in keeping up-to-date with latest technological developments.<br />
-💪  &nbsp;  I’m strong at CS fundamentals (data structure, algorithm).<br />
+💪   &nbsp;  I’m strong at CS fundamentals (data structure, algorithm).<br />
 🌱    &nbsp; I’m comfortable working in agile enviornment.<br />
-🏃  &nbsp;   I’m team player who values collaboration, innovation and inclusion.<br />
+🏃   &nbsp;   I’m team player who values collaboration, innovation and inclusion.<br />
 🤔    &nbsp; I’m able to work with minimal supervision.<br />
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
 ✨    &nbsp; I’m adaptable and transformable to learn latest technologies as per business need.<br />
