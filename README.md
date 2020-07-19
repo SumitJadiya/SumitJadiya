@@ -23,4 +23,3 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 ⛳   &nbsp;  I write code in Java and do practice on Leetcode [https://leetcode.com/stj11/](https://leetcode.com/stj11/)<br />
 👀    &nbsp; You can find me on linkedin [https://www.linkedin.com/in/stj11bitd/](https://www.linkedin.com/in/stj11bitd/)<br />
 📫    &nbsp; How to reach me: jadiyaskj@gmail.com<br />
-⚡    &nbsp; Fun fact: I really love to talk people. I always motivate them, and try to give them directions and some useful life advice. <br />
