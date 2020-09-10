@@ -18,7 +18,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 ⛳   &nbsp;  I write code in Java and do practice on Leetcode [https://leetcode.com/stj11/](https://leetcode.com/stj11/)<br />
 👀    &nbsp; You can find me on linkedin [https://www.linkedin.com/in/stj11bitd/](https://www.linkedin.com/in/stj11bitd/)<br />
 📫    &nbsp; How to reach me: jadiyaskj@gmail.com<br />
-🌏    &nbsp; Please Visit my Portfolio for more details -> stjapps.in<br/>
+🌏    &nbsp; Please Visit my Portfolio for more details -> [http://stjapps.in/](http://stjapps.in/)<br/>
 
 ---------------------------
 <div>
