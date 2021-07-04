@@ -5,7 +5,7 @@ I'm Sumit a software engineer at Appdirect India. I have a creative and focused 
 ```
 Programmer (noun): Someone who solves a problem you didn't know you had, in a way you don't understand. 😉
 ```
-
+---------------------------
   <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
 </p>
 
@@ -42,7 +42,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width:100%;"></a>
 </div>
 
-### Stats 
+---------------------------
 
 <a href="https://https://github.com/SumitJadiya/SumitJadiya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitJadiya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
