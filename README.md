@@ -1,4 +1,7 @@
-### Hey! there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&height=100&width=1000&color=d1a52f&lines=Namaste+🙏;5%2B+years+of+experience;Full+Stack+Web+Developer;Always+ready+to+learn+new+things)](https://git.io/typing-svg)
+
+-------------
 
 I'm Sumit a software engineer at Appdirect India. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new. 
 
@@ -42,6 +45,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width:100%;"></a>
 </div>
 
+<!--
 ---------------------------
 
 <a href="https://https://github.com/SumitJadiya/SumitJadiya">
@@ -51,4 +55,27 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 <a href="https://github.com/SumitJadiya/SumitJadiya">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SumitJadiya&title_color=ffffff&text_color=c9cacc&icon_color=fabc8b&bg_color=1d1f21&show_icons=true&count_private=true" alt="Sumit's GitHub Stats" />
 </a>
+-->
 
+## 🔥 Streak stats
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥" alt="SumitJadiya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitJadiya&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <!-- <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
+</p>
+
+## Visitor Count
+![](https://komarev.com/ghpvc/?username=SumitJadiya&label=PROFILE+VIEWS)
+
+## Github stats
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SumitJadiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SumitJadiya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SumitJadiya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitJadiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
