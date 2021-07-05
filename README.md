@@ -12,7 +12,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 💻    &nbsp; Full Stack Developer.<br />
 ✍🏻   &nbsp;  Decent competitive programming, DSA, Algo skills.<br />
 🔭   &nbsp;  Currently exploring AWS.<br />
-👯    &nbsp; I’m intrested in keeping up-to-date with latest technological developments.<br />
+👯    &nbsp; I’m interested in keeping up-to-date with latest technological developments.<br />
 🤔    &nbsp; I’m able to work with minimal supervision.<br />
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
 ⛳   &nbsp;  I write code in Java and do practice on Leetcode [https://leetcode.com/stj11/](https://leetcode.com/stj11/)<br />
@@ -49,6 +49,6 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 </a>
 
 <a href="https://github.com/SumitJadiya/SumitJadiya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SumitJadiya&show_icons=true&count_private=true&theme=dracula" alt="Sumit's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SumitJadiya&title_color=ffffff&text_color=c9cacc&icon_color=fabc8b&bg_color=1d1f21&show_icons=true&count_private=true" alt="Sumit's GitHub Stats" />
 </a>
 
