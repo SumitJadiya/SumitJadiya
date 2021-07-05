@@ -1,9 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&height=100&width=1000&color=d1a52f&lines=Namaste+🙏;5%2B+years+of+experience;Full+Stack+Web+Developer;Always+ready+to+learn+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&height=60&width=1000&color=d1a52f&lines=Namaste+🙏;5%2B+years+of+experience;Full+Stack+Web+Developer;Always+ready+to+learn+new+things)](https://git.io/typing-svg)
 
 -------------
 
-I'm Sumit a software engineer at Appdirect India. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new. 
+I'm Sumit, A Software Engineer at Appdirect India 🇮🇳. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new. 
 
 ```
 Programmer (noun): Someone who solves a problem you didn't know you had, in a way you don't understand. 😉
@@ -66,10 +66,10 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
   <!-- <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
 </p>
 
-## Visitor Count
-![](https://komarev.com/ghpvc/?username=SumitJadiya&label=PROFILE+VIEWS)
+## 🧑‍💻 Visitor Count
+![](https://komarev.com/ghpvc/?username=SumitJadiya&label=PROFILE+VIEWS&color=yellow)
 
-## Github stats
+## 📈 Github stats
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
