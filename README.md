@@ -74,11 +74,16 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 
 ## 📈 Github stats
 
-<details> 
+<!-- <details>  -->
   <summary>💻 GitHub Profile Stats</summary>
+
+ <a href="#" ><img alt="SumitJadiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SumitJadiya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="185px"/></a>
+ <a href="#" ><img alt="SumitJadiya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitJadiya&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="185px"/></a>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SumitJadiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SumitJadiya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SumitJadiya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitJadiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/></a>
+<!--   <a href="#" style="width: 100%">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumitJadiya&amp;theme=dracula" />
+  </a> -->
+<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=SumitJadiya&amp;theme=rogue&amp;bg_color=1F222E&amp;color=F85D7F" /> </a>
   <br/>
   <b>Note: </b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+<!-- </details> -->
