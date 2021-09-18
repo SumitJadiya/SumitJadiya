@@ -59,15 +59,15 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 
 ## 🔥 Streak stats
 
-<details> 
-<summary>Streak Stats 🔥 </summary>
+<!-- <details>  -->
+<!-- <summary>Streak Stats 🔥 </summary> -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="#">
     <img title="🔥" alt="SumitJadiya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitJadiya&theme=monokai-metallian&hide_border=true"/>
   </a>
   <!-- <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
 </p>
-</details>
+<!-- </details> -->
 
 ## 🧑‍💻 Visitor Count
 ![](https://komarev.com/ghpvc/?username=SumitJadiya&label=PROFILE+VIEWS&color=yellow)
@@ -85,5 +85,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
   </a> -->
 <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=SumitJadiya&amp;theme=rogue&amp;bg_color=1F222E&amp;color=F85D7F" /> </a>
   <br/>
+    <br/>
+
   <b>Note: </b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <!-- </details> -->
