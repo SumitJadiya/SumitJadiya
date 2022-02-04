@@ -14,7 +14,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 
 💻    &nbsp; Full Stack Developer.<br />
 ✍🏻   &nbsp;  Decent competitive programming, DS, Algo, Designing skills.<br />
-🔭   &nbsp;  Currently exploring AWS.<br />
+🔭   &nbsp;  Currently exploring Devops and cloud tech (AWS, GCP, ANSIBLE, Docker, Kube etc).<br />
 👯    &nbsp; I’m interested in keeping up-to-date with latest technological developments.<br />
 🤔    &nbsp; I’m able to work with minimal supervision.<br />
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
