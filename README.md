@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&height=60&width=1000&color=d1a52f&lines=Namaste+🙏;5%2B+years+of+experience;Full+Stack+Web+Developer;Always+ready+to+learn+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&height=60&width=1000&color=d1a52f&lines=Namaste+🙏;5.5%2B+years+of+experience;Full+Stack+Web+Developer;Always+ready+to+learn+new+things)](https://git.io/typing-svg)
 
 -------------
 
