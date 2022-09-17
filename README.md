@@ -13,11 +13,11 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 </p>
 
 💻    &nbsp; Full Stack Developer.<br />
-✍🏻   &nbsp;  Decent competitive programming, DS, Algo, Designing skills.<br />
-🔭   &nbsp;  Currently exploring Devops and cloud tech (AWS, GCP, ANSIBLE, Docker, Kube etc).<br />
-👯    &nbsp; I’m interested in keeping up-to-date with latest technological developments.<br />
+✍🏻   &nbsp;  Very good at competitive programming, DS, Algo, system design & Development skills.<br />
+🔭   &nbsp;  I have working experience in Devops & cloud tech (AWS, GCP, ANSIBLE, Docker, Kube etc).<br />
+👯    &nbsp; I keep myself up-to-date with the latest technological developments.<br />
 🤔    &nbsp; I’m able to work with minimal supervision.<br />
-⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
+⚡️    &nbsp; I’m always ready to take on new technical challenges. I :heart: responsibilities. <br />
 ⛳   &nbsp;  I write code in Java and do practice on Leetcode [https://leetcode.com/stj11/](https://leetcode.com/stj11/)<br />
 👀    &nbsp; You can find me on linkedin [https://www.linkedin.com/in/stj11bitd/](https://www.linkedin.com/in/stj11bitd/)<br />
 📫    &nbsp; How to reach me: jadiyaskj@gmail.com<br />
