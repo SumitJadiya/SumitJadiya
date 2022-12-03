@@ -1,9 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&height=60&width=1000&color=d1a52f&lines=Namaste+🙏;5.5%2B+years+of+experience;Full+Stack+Web+Developer;Always+ready+to+learn+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&height=60&width=1000&color=d1a52f&lines=Namaste+🙏;6%2B+years+of+experience;Full+Stack+Web+Developer;Always+ready+to+learn+new+things)](https://git.io/typing-svg)
 
 -------------
 
-I'm Sumit, Senior Software Engineer at Turtlemint India 🇮🇳. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new. 
+I'm Sumit, Software Development Tech Lead at Turtlemint India 🇮🇳. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new. 
 
 ```
 Programmer (noun): Someone who solves a problem you didn't know you had, in a way you don't understand. 😉
