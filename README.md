@@ -72,7 +72,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 ## 🧑‍💻 Visitor Count
 ![](https://komarev.com/ghpvc/?username=SumitJadiya&label=PROFILE+VIEWS&color=yellow)
 
-<!-- ## 🧑‍💻 Weekly Coding Time
+<!--  ## 🧑‍💻 Weekly Coding Time
 <a href="https://wakatime.com/@a873f402-6e2b-4b2a-beaf-0556bd97977f"><img src="https://wakatime.com/badge/user/a873f402-6e2b-4b2a-beaf-0556bd97977f.svg" alt="Total time coded since Apr 26 2021" /></a>
  -->
 ## 📈 Github stats
@@ -80,13 +80,13 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 <!-- <details>  -->
 <!--   <summary>💻 GitHub Profile Stats</summary> -->
 
-<a href="https://stj-portfolio.netlify.app/"><img alt="SumitJadiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SumitJadiya&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165px"/></a>
-  <a href="https://stj-portfolio.netlify.app/"><img alt="SumitJadiya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitJadiya&langs_count=3&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165px"/></a>
+<a href="https://stj-portfolio.netlify.app/"><img alt="SumitJadiya's Github Stats" src="https://github-readme-stats-sumitjadiya.vercel.app/api?username=SumitJadiya&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165px"/></a>
+  <a href="https://stj-portfolio.netlify.app/"><img alt="SumitJadiya's Top Languages" src="https://github-readme-stats-sumitjadiya.vercel.app/api/top-langs/?username=SumitJadiya&langs_count=3&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165px"/></a>
   <br/>
 <!--   <a href="#" style="width: 100%">  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumitJadiya&amp;theme=dracula" />
   </a> -->
-<a href="https://stj-portfolio.netlify.app/"><img src="https://activity-graph.herokuapp.com/graph?username=SumitJadiya&amp;theme=rogue&amp;bg_color=1F222E&amp;color=F85D7F" /> </a>
+<a href="https://stj-portfolio.netlify.app/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SumitJadiya&amp;theme=rogue&amp;bg_color=1F222E&amp;color=F85D7F" /> </a>
   <br/>
     <br/>
 
