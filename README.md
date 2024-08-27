@@ -86,7 +86,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 <!--   <a href="#" style="width: 100%">  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumitJadiya&amp;theme=dracula" />
   </a> -->
-<a href="https://stj-portfolio.netlify.app/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SumitJadiya&amp;theme=rogue&amp;bg_color=1F222E&amp;color=F85D7F" /> </a>
+<a href="https://stj-portfolio.netlify.app/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitjadiya&theme=rogue&area=true&hide_border=true" width="900px"/> </a>
   <br/>
     <br/>
 
