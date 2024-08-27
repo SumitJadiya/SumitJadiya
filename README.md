@@ -3,7 +3,7 @@
 
 -------------
 
-I'm Sumit, Lead Engineer at Turtlemint India 🇮🇳. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new. 
+I'm Sumit, Lead Engineer at Turtlemint India 🇮🇳. I have a creative and focused mindset with a strong sense of ownership. I enjoy tackling real-world problems and transforming my ideas into working code. With experience in various languages and frameworks, I'm always eager to explore new opportunities and challenges.
 
 ```
 Programmer (noun): Someone who solves a problem you didn't know you had, in a way you don't understand. 😉
