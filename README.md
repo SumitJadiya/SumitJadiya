@@ -1,7 +1,9 @@
+<div align="center">
+  
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7D02C&center=true&vCenter=true&width=500&height=80&lines=Namaste+%F0%9F%99%8F++I'm+Sumit..+%F0%9F%91%8B;Lead+Engineer+%40+Turtlemint;8%2B+Years+of+work+experience;Connect+with+me+on+LinkedIn+%F0%9F%A4%A9)](https://git.io/typing-svg)
+  
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7D02C&center=true&vCenter=true&width=500&height=80&lines=Namaste+%F0%9F%99%8F++I'm+Sumit..+%F0%9F%91%8B;Lead+Engineer+%40+Turtlemint;7%2B+Years+of+work+experience;Connect+with+me+on+LinkedIn+%F0%9F%A4%A9)](https://git.io/typing-svg)
-
--------------
 
 I'm Sumit, Lead Engineer at Turtlemint India 🇮🇳. I have a creative and focused mindset with a strong sense of ownership. I enjoy tackling real-world problems and transforming my ideas into working code. With experience in various languages and frameworks, I'm always eager to explore new opportunities and challenges.
 
